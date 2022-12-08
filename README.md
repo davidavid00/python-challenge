@@ -3,7 +3,7 @@ This was a really fun challenge! I scratched my head a bit, but have completed b
 
 **Glossary** of variables:
 
-**PyBank**
+**PyBank** \n
 totalpl = total Profit/Loss across all months
 prevPL = previous month's profit/loss reported
 
