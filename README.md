@@ -6,13 +6,18 @@ This was a really fun challenge! I scratched my head a bit, but have completed b
 
 
 **PyBank** 
+
 totalpl = total Profit/Loss across all months
+
 prevPL = previous month's profit/loss reported
 
 
 **PyPoll:**
+
 tVoteCount = Total Vote Count
+
 cCandidate = Current Candidate
+
 candidatevotes = list of candidates
 
 
